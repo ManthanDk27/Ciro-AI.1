@@ -53,7 +53,7 @@ Turn subjects into structured journeys instead of disconnected questions.
 
 ### Learning Dashboard
 
-![Ciro AI Learning Dashboard](./assets/ciro-dashboard.png)
+![Ciro AI Learning Dashboard](https://github.com/ManthanDk27/Ciro-AI.1/blob/6d1f90ea3a61829dbf98db569f4f96c3589ff045/Ciro%20AI%20Learning%20Dashboard.png
 
 A central learning environment where learners can explore subjects, topics, progress, and learning activities.
 
