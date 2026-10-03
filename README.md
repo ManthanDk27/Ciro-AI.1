@@ -1,5 +1,5 @@
 <p align="center">
-  CiroAI
+  <img src="YOUR_CIRO_BANNER_LINK" width="100%">
 </p>
 <p align="center">
   <strong>Learn. Understand. Build.</strong>
