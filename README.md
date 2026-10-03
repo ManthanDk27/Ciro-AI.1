@@ -1,14 +1,9 @@
 <p align="center">
   <img src="https://github.com/ManthanDk27/Ciro-AI.1/blob/cae5081ecdb5940cadae4af542f52a53322ebcce/ciro-banner.png" width="100%">
 </p>
-<p align="center">
-  <strong>Learn. Understand. Build.</strong>
-</p>
 
-<p align="center">
-  An AI-powered learning companion designed to make learning
-  more visual, interactive, personalized, and easier to understand.
-</p>
+
+
 
 ---
 
@@ -53,7 +48,7 @@ Ciro is designed around a central learning environment where learners can explor
 The dashboard gives the learner a central place to discover and continue their learning journey.
 
 <a href="https://github.com/ManthanDk27/Ciro-AI.1/blob/df718c21f4e3a2b656be0b4a8ac3f41c20705749/Ciro%20AI%20Learning%20Dashboard.png">
-  <img src="https://github.com/ManthanDk27/Ciro-AI.1/blob/df718c21f4e3a2b656be0b4a8ac3f41c20705749/Ciro%20AI%20Learning%20Dashboard.png" width="900">
+  <img src="https://github.com/ManthanDk27/Ciro-AI.1/blob/df718c21f4e3a2b656be0b4a8ac3f41c20705749/Ciro%20AI%20Learning%20Dashboard.png" width="100%">
 </a>
 
 This is the foundation of the Ciro learning experience — a place where everything the learner needs can come together.
@@ -67,7 +62,7 @@ Ciro is designed to make difficult concepts easier to visualize and understand.
 For example, a topic such as Newton's Laws can become an interactive learning experience rather than just a block of text.
 
 <a href="https://github.com/ManthanDk27/Ciro-AI.1/blob/5ed3e240136a1877aa7be9416c69a40dd00c5d81/Newton%E2%80%99s%20Laws%20Dark%20Learning%20Dashboard.png">
-  <img src="https://github.com/ManthanDk27/Ciro-AI.1/blob/5ed3e240136a1877aa7be9416c69a40dd00c5d81/Newton%E2%80%99s%20Laws%20Dark%20Learning%20Dashboard.png" width="900">
+  <img src="https://github.com/ManthanDk27/Ciro-AI.1/blob/5ed3e240136a1877aa7be9416c69a40dd00c5d81/Newton%E2%80%99s%20Laws%20Dark%20Learning%20Dashboard.png" width="100%">
 </a>
 
 The learner can explore the concept visually, understand the explanation, and connect it with real-world situations.
@@ -81,7 +76,7 @@ Learning doesn't stop after one explanation.
 Ciro is designed to understand what the learner is interested in and help suggest what they could explore next.
 
 <a href="https://github.com/ManthanDk27/Ciro-AI.1/blob/335fb333a66b19229b219f1ebce5eb07da266b11/Ciro%20AI%20Learning%20Suggestions%20Dashboard.png">
-  <img src="https://github.com/ManthanDk27/Ciro-AI.1/blob/335fb333a66b19229b219f1ebce5eb07da266b11/Ciro%20AI%20Learning%20Suggestions%20Dashboard.png" width="900">
+  <img src="https://github.com/ManthanDk27/Ciro-AI.1/blob/335fb333a66b19229b219f1ebce5eb07da266b11/Ciro%20AI%20Learning%20Suggestions%20Dashboard.png" width="100%">
 </a>
 
 The goal is to make the next step in the learner's journey easier to discover.
