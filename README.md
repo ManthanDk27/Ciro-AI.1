@@ -51,8 +51,8 @@ Ciro is designed around a central learning environment where learners can explor
 
 The dashboard gives the learner a central place to discover and continue their learning journey.
 
-<a href="IMAGE_LINK_1">
-  <img src="IMAGE_LINK_1" width="900">
+<a href="https://github.com/ManthanDk27/Ciro-AI.1/blob/df718c21f4e3a2b656be0b4a8ac3f41c20705749/Ciro%20AI%20Learning%20Dashboard.png">
+  <img src="https://github.com/ManthanDk27/Ciro-AI.1/blob/df718c21f4e3a2b656be0b4a8ac3f41c20705749/Ciro%20AI%20Learning%20Dashboard.png" width="900">
 </a>
 
 This is the foundation of the Ciro learning experience — a place where everything the learner needs can come together.
