@@ -80,8 +80,8 @@ Learning doesn't stop after one explanation.
 
 Ciro is designed to understand what the learner is interested in and help suggest what they could explore next.
 
-<a href="IMAGE_LINK_3">
-  <img src="IMAGE_LINK_3" width="900">
+<a href="https://github.com/ManthanDk27/Ciro-AI.1/blob/335fb333a66b19229b219f1ebce5eb07da266b11/Ciro%20AI%20Learning%20Suggestions%20Dashboard.png">
+  <img src="https://github.com/ManthanDk27/Ciro-AI.1/blob/335fb333a66b19229b219f1ebce5eb07da266b11/Ciro%20AI%20Learning%20Suggestions%20Dashboard.png" width="900">
 </a>
 
 The goal is to make the next step in the learner's journey easier to discover.
