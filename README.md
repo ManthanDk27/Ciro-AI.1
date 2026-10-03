@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_CIRO_BANNER_LINK" width="100%">
+  <img src="https://github.com/ManthanDk27/Ciro-AI.1/blob/cae5081ecdb5940cadae4af542f52a53322ebcce/ciro-banner.png" width="100%">
 </p>
 <p align="center">
   <strong>Learn. Understand. Build.</strong>
