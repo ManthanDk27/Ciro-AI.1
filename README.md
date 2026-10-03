@@ -17,67 +17,81 @@ Ciro is an AI learning companion designed to help people **understand concepts i
 
 It combines AI explanations, visual learning, real-world examples, personalized suggestions, and interactive experiences into one learning environment.
 
-Ciro is being built with the idea that learning should feel more like **having an intelligent tutor beside you** than searching for information.
+The idea is simple:
+
+> **Don't just give the answer. Help the learner understand it.**
 
 ---
 
 ## ✨ What Ciro Will Do
 
-🎓 **AI Tutoring**  
-Explain difficult concepts step by step in a way that is easier to understand.
+🎓 **AI Tutoring** — Explain difficult concepts step by step.
 
-📊 **Visual Learning**  
-Turn concepts into diagrams, visual explanations, and interactive learning experiences.
+📊 **Visual Learning** — Turn complex ideas into diagrams and visual experiences.
 
-🌎 **Real-World Examples**  
-Connect what you're learning to real situations and practical applications.
+🌎 **Real-World Examples** — Connect concepts to practical situations.
 
-🎯 **Personalized Learning**  
-Suggest what to learn next based on interests, goals, and learning progress.
+🎯 **Personalized Learning** — Suggest what the learner should explore next.
 
-🧠 **Adaptive Explanations**  
-Adjust explanations depending on what the learner already understands.
+🧠 **Adaptive Explanations** — Adjust explanations based on the learner.
 
-🎙️ **Voice Learning**  
-Allow concepts to be explained through natural AI-generated voice.
+🎙️ **Voice Learning** — Explain concepts through natural AI-generated voice.
 
-📝 **Practice & Understanding**  
-Help learners test their knowledge through questions, practice, and revision.
+📝 **Practice & Revision** — Help learners test and strengthen their understanding.
 
-📚 **Learning Paths**  
-Turn subjects into structured journeys instead of disconnected questions.
+📚 **Learning Paths** — Turn subjects into structured learning journeys.
 
 ---
 
 ## 🖥️ What Ciro Could Look Like
 
-### Learning Dashboard
+Ciro is designed around a central learning environment where learners can explore subjects, topics, progress, and learning activities.
 
-![Ciro AI Learning Dashboard](https://github.com/ManthanDk27/Ciro-AI.1/blob/6d1f90ea3a61829dbf98db569f4f96c3589ff045/Ciro%20AI%20Learning%20Dashboard.png
+### 📚 Learning Dashboard
 
-A central learning environment where learners can explore subjects, topics, progress, and learning activities.
+The dashboard gives the learner a central place to discover and continue their learning journey.
 
-### Interactive Learning
+<a href="IMAGE_LINK_1">
+  <img src="IMAGE_LINK_1" width="900">
+</a>
 
-![Ciro AI Newton's Laws](./assets/newtons-laws.png)
+This is the foundation of the Ciro learning experience — a place where everything the learner needs can come together.
 
-Concepts can be presented through visual explanations and interactive learning experiences rather than only text.
+---
 
-### Personalized Suggestions
+### 🧠 Interactive Learning
 
-![Ciro AI Learning Suggestions](./assets/ciro-suggestions.png)
+Ciro is designed to make difficult concepts easier to visualize and understand.
 
-Ciro can recommend relevant topics and guide learners toward what they could explore next.
+For example, a topic such as Newton's Laws can become an interactive learning experience rather than just a block of text.
+
+<a href="IMAGE_LINK_2">
+  <img src="IMAGE_LINK_2" width="900">
+</a>
+
+The learner can explore the concept visually, understand the explanation, and connect it with real-world situations.
+
+---
+
+### 🎯 Personalized Suggestions
+
+Learning doesn't stop after one explanation.
+
+Ciro is designed to understand what the learner is interested in and help suggest what they could explore next.
+
+<a href="IMAGE_LINK_3">
+  <img src="IMAGE_LINK_3" width="900">
+</a>
+
+The goal is to make the next step in the learner's journey easier to discover.
 
 ---
 
 ## 🚀 The Vision
 
-The vision behind Ciro is simple:
+The vision behind Ciro is to build an AI learning companion that can become a **personal learning environment**.
 
-> **Don't just give people information. Help them understand it.**
-
-The long-term goal is to create an AI learning companion that can:
+Ciro is being designed to eventually:
 
 - Understand what a learner wants to learn
 - Understand their current level
@@ -86,13 +100,13 @@ The long-term goal is to create an AI learning companion that can:
 - Connect theory with reality
 - Adapt to the learner
 - Remember learning progress
-- Guide the next step
+- Recommend what to learn next
 - Help learners practice
 - Teach through text, visuals, and voice
 
-Ciro isn't meant to be just another AI chatbot.
+The bigger idea is not to build another AI chatbot.
 
-It is being built toward a future where **AI can become a personal learning environment — available whenever someone wants to learn.**
+> **The goal is to build AI that can actually help people learn.**
 
 ---
 
@@ -111,7 +125,7 @@ It is being built toward a future where **AI can become a personal learning envi
 
 **Ciro AI is currently in development.**
 
-The interfaces and concepts shown above represent the direction and future experience of the project as it continues to evolve.
+The interfaces shown above represent the direction and future experience of the project as it continues to evolve.
 
 ---
 
