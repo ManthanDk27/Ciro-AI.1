@@ -1,5 +1,6 @@
-# Ciro AI
-
+<p align="center">
+  CiroAI
+</p>
 <p align="center">
   <strong>Learn. Understand. Build.</strong>
 </p>
