@@ -65,8 +65,8 @@ Ciro is designed to make difficult concepts easier to visualize and understand.
 
 For example, a topic such as Newton's Laws can become an interactive learning experience rather than just a block of text.
 
-<a href="IMAGE_LINK_2">
-  <img src="IMAGE_LINK_2" width="900">
+<a href="https://github.com/ManthanDk27/Ciro-AI.1/blob/5ed3e240136a1877aa7be9416c69a40dd00c5d81/Newton%E2%80%99s%20Laws%20Dark%20Learning%20Dashboard.png">
+  <img src="https://github.com/ManthanDk27/Ciro-AI.1/blob/5ed3e240136a1877aa7be9416c69a40dd00c5d81/Newton%E2%80%99s%20Laws%20Dark%20Learning%20Dashboard.png" width="900">
 </a>
 
 The learner can explore the concept visually, understand the explanation, and connect it with real-world situations.
